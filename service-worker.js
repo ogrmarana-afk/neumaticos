@@ -1,0 +1,1 @@
+// Service worker placeholder - full logic provided in previous step
